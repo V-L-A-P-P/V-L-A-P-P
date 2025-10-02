@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Привет, я Владислав!
 
-<!--
-**V-L-A-P-P/V-L-A-P-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент 2 курса Финансового университета (прикладное машинное обучение)  
+🧑‍💻 Junior ML Engineer, интересуюсь персонализацией и рекомендательными системами  
+⚡ Навыки: Python (NumPy, Pandas, Scikit-learn, CatBoost, XGBoost, LightGBM), SQL, Git  
+☁️ Опыт работы с Yandex Cloud и Google Colab  
+📊 Участвую в хакатонах и активно развиваюсь в Data Science  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Контакты
+- 📧 Email: apukhtin00@inbox.ru  
+- 💬 Telegram: [@kyl0q](https://t.me/kyl0q)  
+- 🐙 GitHub: [@V-L-A-P-P](https://github.com/V-L-A-P-P)  
