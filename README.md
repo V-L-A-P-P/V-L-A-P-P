@@ -6,6 +6,7 @@
 ⚡ Навыки: Python (NumPy, Pandas, Scikit-learn, CatBoost, XGBoost, LightGBM), PyTorch, Transformers, Linux, SQL, Git  
 📊 Участвую в хакатонах и активно развиваюсь в Data Science  
 
+Вот моё резюме: [РЕЗЮМЕ](https://github.com/V-L-A-P-P/resume/blob/main/resume_apukhtin.pdf) 
 ---
 
 ## 🔗 Контакты
